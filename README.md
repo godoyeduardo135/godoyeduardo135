@@ -14,7 +14,18 @@
 
 ## Tecnologia que utilizo
 **BACK-END**
-https://camo.githubusercontent.com/66487c3cf0d2d3d0a6b7fb55079180bbe4390b2de24a3ca9ea4da250bc691eb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d332e782d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/174010e9-480a-479f-8680-63e64e53bafa" />
+
+## Ferrmentas 
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/9f3fd7b4-508c-431a-a6b8-387638c5f469" />
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/70bc2907-54fa-426a-a129-8619f672ee6f" />
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/da1c7584-a9b2-4f37-a842-15cad231a872" />
+
+## Banco de Dados
+<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/fc838329-9e42-448d-8661-7a099e786656" />
+
+
+
 
 
 

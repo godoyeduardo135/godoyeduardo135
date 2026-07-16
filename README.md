@@ -13,17 +13,28 @@
 - Sempre buscando crescer com a Tecnologia
 
 ## Tecnologia que utilizo
+
 **BACK-END**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 
+
+
+
+
+
+
 ## Ferrmentas 
+
 ![Vs Code](https://img.shields.io/badge/VS%20Code-1.9x-007ACC?logo=visualstudiocode&logoColor=white)
 
+![Git](https://img.shields.io/badge/Git-2.x-F05032?logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)
 
 ## Banco de Dados
-<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/fc838329-9e42-448d-8661-7a099e786656" />
 
+![SuperBase](https://img.shields.io/badge/Supabase-DB-3ECF8E?logo=supabase&logoColor=white)
 
 
 

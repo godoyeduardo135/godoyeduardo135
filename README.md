@@ -35,25 +35,12 @@
 - AWS
 - MarkDonw
 
+## Principais projetos 
 
+🔗 https://godoymultimarcas.lovable.app/
 
+🔗 https://github.com/godoyeduardo135/projeto-final-analise-dados
 
+## Atividade do repositório
 
-
-
-
-
-
-**godoyeduardo135/godoyeduardo135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Commits](https://img.shields.io/github/commit-activity/t/godoyeduardo135/projeto-final-analise-dados)

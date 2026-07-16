@@ -48,8 +48,8 @@
 
 Aonde pode me encontrar!
 
-Eduardo Godoy - https://www.linkedin.com/in/eduardo-godoy-b73615272/
+Eduardo Godoy - ![Linkedin](https://www.linkedin.com/in/eduardo-godoy-b73615272/)
 
-Eduardo Godoy - https://github.com/godoyeduardo135
+Eduardo Godoy - ![GitHub](https://github.com/godoyeduardo135)
 
-Eduardo Godoy - https://www.instagram.com/eduardogodoys_?igsh=MW4yZWx5bjZ2ZXI4bw==
+Eduardo Godoy - ![Instagram](https://www.instagram.com/eduardogodoys_?igsh=MW4yZWx5bjZ2ZXI4bw==)

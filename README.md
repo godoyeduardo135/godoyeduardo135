@@ -18,8 +18,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 
 ## Ferrmentas 
-[<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/9f3fd7b4-508c-431a-a6b8-387638c5f469" />
-](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
+![Vs Code](https://img.shields.io/badge/VS%20Code-1.9x-007ACC?logo=visualstudiocode&logoColor=white)
 
 [<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/70bc2907-54fa-426a-a129-8619f672ee6f" />
 ](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)

@@ -14,8 +14,7 @@
 
 ## Tecnologia que utilizo
 **BACK-END**
-[<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/174010e9-480a-479f-8680-63e64e53bafa" />
-](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 
 ## Ferrmentas 
 [<img width="447" height="447" alt="image" src="https://github.com/user-attachments/assets/9f3fd7b4-508c-431a-a6b8-387638c5f469" />

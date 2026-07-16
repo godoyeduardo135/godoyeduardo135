@@ -44,3 +44,12 @@
 ## Atividade do repositório
 
 ![Commits](https://img.shields.io/github/commit-activity/t/godoyeduardo135/projeto-final-analise-dados)
+
+
+Aonde pode me encontrar!
+
+Eduardo Godoy - https://www.linkedin.com/in/eduardo-godoy-b73615272/
+
+Eduardo Godoy - https://github.com/godoyeduardo135
+
+Eduardo Godoy - https://www.instagram.com/eduardogodoys_?igsh=MW4yZWx5bjZ2ZXI4bw==

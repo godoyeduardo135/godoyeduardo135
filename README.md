@@ -18,13 +18,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 
-
-
-
-
-
-
-## Ferrmentas 
+**Ferrmentas** 
 
 ![Vs Code](https://img.shields.io/badge/VS%20Code-1.9x-007ACC?logo=visualstudiocode&logoColor=white)
 
@@ -32,9 +26,14 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)
 
-## Banco de Dados
+**Banco de Dados**
 
 ![SuperBase](https://img.shields.io/badge/Supabase-DB-3ECF8E?logo=supabase&logoColor=white)
+
+**Outras Tecnologias**
+- Power BI
+- AWS
+- MarkDonw
 
 
 

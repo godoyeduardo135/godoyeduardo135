@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h6 data-importer="text" align="center">💻 Futuro Desenvolvedor<br><br>👨‍🎓 Estudante do SENAI<br><br>🚀Sempre me Atualizando nas Tecnologias</h6>
+<h6 data-importer="text" align="left">💻 Futuro Desenvolvedor<br><br>👨‍🎓 Estudante do SENAI<br><br>🚀Sempre me Atualizando nas Tecnologias</h6>
 
 ###
 
@@ -79,6 +79,16 @@
 ###
 
 <h1 data-importer="text" align="left">Atividade do Perfil</h1>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/godoyeduardo135/godoyeduardo135/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/godoyeduardo135/godoyeduardo135/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/godoyeduardo135/godoyeduardo135/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 ###
 

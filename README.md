@@ -1,55 +1,113 @@
-## Olá!👋 Eu sou o Eduardo Godoy
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-💻 Futuro Desenvolvedor
+###
 
-👨‍🎓 Estudante do SENAI
+<h1 data-importer="text" align="center">Olá! Eu sou o Eduardo Godoy</h1>
 
-🚀Sempre me Atualizando nas Tecnologias
+###
 
+<br clear="both">
 
-## Sobre mim
-- Atualmente cursando Programação em IA Generativa  Fundamentos de IA com Análise de Dados
+<h6 data-importer="text" align="center">💻 Futuro Desenvolvedor<br><br>👨‍🎓 Estudante do SENAI<br><br>🚀Sempre me Atualizando nas Tecnologias</h6>
 
-- Sempre buscando crescer com a Tecnologia
+###
 
-## Tecnologia que utilizo
+<h1 data-importer="text" align="left">Sobre mim</h1>
 
-**BACK-END**
+###
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+<p data-importer="text" align="left">- Atualmente cursando Programação em IA Generativa Fundamentos de IA com Análise de Dados<br><br>- Sempre buscando crescer com a Tecnologia</p>
 
-**Ferrmentas** 
+###
 
-![Vs Code](https://img.shields.io/badge/VS%20Code-1.9x-007ACC?logo=visualstudiocode&logoColor=white)
+<h1 data-importer="text" align="left">Tecnologia que utilizo</h1>
 
-![Git](https://img.shields.io/badge/Git-2.x-F05032?logo=git&logoColor=white)
+###
 
-![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?logo=github&logoColor=white)
+<h6 data-importer="text" align="left">BACK-END</h6>
 
-**Banco de Dados**
+###
 
-![SuperBase](https://img.shields.io/badge/Supabase-DB-3ECF8E?logo=supabase&logoColor=white)
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
+</div>
 
-**Outras Tecnologias**
-- Power BI
-- AWS
-- MarkDonw
+###
 
-## Principais projetos 
+<h6 data-importer="text" align="left">Ferramentas</h6>
 
-🔗 https://godoymultimarcas.lovable.app/
+###
 
-🔗 https://github.com/godoyeduardo135/projeto-final-analise-dados
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
 
-## Atividade do repositório
+###
 
-![Commits](https://img.shields.io/github/commit-activity/t/godoyeduardo135/projeto-final-analise-dados)
+<h6 data-importer="text" align="left">Banco de Dados</h6>
 
+###
 
-Aonde pode me encontrar!
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-Eduardo Godoy - ![Linkedin](https://www.linkedin.com/in/eduardo-godoy-b73615272/)
+###
 
-Eduardo Godoy - ![GitHub](https://github.com/godoyeduardo135)
+<h6 data-importer="text" align="left">Outras Ferramentas</h6>
 
-Eduardo Godoy - ![Instagram](https://www.instagram.com/eduardogodoys_?igsh=MW4yZWx5bjZ2ZXI4bw==)
+###
+
+<p data-importer="text" align="left">- Power BI</p>
+
+###
+
+<h1 data-importer="text" align="left">Principais Projetos!</h1>
+
+###
+
+<p data-importer="text" align="left">🔗https://godoymultimarcas.lovable.app/<br><br>🔗 https://github.com/godoyeduardo135/projeto-final-analise-dados</p>
+
+###
+
+<h1 data-importer="text" align="left">Atividade do Perfil</h1>
+
+###
+
+<h1 data-importer="text" align="left">Aonde pode me encontrar!</h1>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/eduardo-godoy-b73615272/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="godoyeduardo135@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="(19) 99800-7852" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/eduardogodoys_?igsh=MW4yZWx5bjZ2ZXI4bw==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="techs" align="left">
+</div>
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
